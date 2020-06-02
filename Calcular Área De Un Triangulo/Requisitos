@@ -1,0 +1,11 @@
+Desarrolla un programa el cual permita al usuario ingresar la base y la altura de un triangulo. El programa debe ser capaz de imprimir en consola el área del triangulo.
+
+Ejemplo.
+
+>>> Ingrese la base: 10
+>>> Ingrese la altura: 20
+El área del triangulo es: 100
+
+>>> Ingrese la base: 8
+>>> Ingrese la altura: 15
+El área del triangulo es: 60
