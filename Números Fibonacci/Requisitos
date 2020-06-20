@@ -1,0 +1,22 @@
+Desarrolla un programa el cual nos permita conocer los primeros n números de la serie Fibonacci: 0, 1, 1, 2, 3, 5, 8, 13, 21, 34, 55, 89, 144, …
+
+El programa de cumplir con los siguiente requerimientos.
+
+    -Definir una función llamada fibonacci.
+    -La función debe poseer como parámetro la variable max_number.
+    -La función debe recibir como argumento un número entero mayor a 0.
+    -La función debe retornar, mediante una lista, los primero n números (con respecto al parámetro) del a serie Fibonacci.
+
+Ejemplo.
+
+>>> fibonacci(1)
+[0]
+
+>>> fibonacci(3)
+[0, 1, 1]
+
+>>> fibonacci(11)
+[1, 2, 3, 5, 8, 13, 21, 34, 55, 89]
+
+Deseado: Si es posible, sería una muy buena idea validar que el parámetro sea un número entero positivo. 
+En caso no sea así retornar una lista vacía.
